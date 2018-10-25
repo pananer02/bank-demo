@@ -1,0 +1,11 @@
+### Java-Web ###
+## ignoring target file
+target/
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
